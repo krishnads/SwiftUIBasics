@@ -4,6 +4,12 @@ Basic examples of SwiftUI
 
 ==================
 
+#Composing Multiple View
+=========================
+
+![Simulator Screen Shot - iPhone 11 Pro Max - 2019-10-22 at 17 28 13](https://user-images.githubusercontent.com/16478904/67283707-cae7df00-f4f1-11e9-9482-e9b641314c76.png)
+
+
 #MKMapView Example using UIViewRepresentable
 ============================================
 
@@ -35,3 +41,6 @@ Basic examples of SwiftUI
 ===========
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2019-10-17 at 12 19 10](https://user-images.githubusercontent.com/16478904/66984565-8e267d00-f0d8-11e9-8bdf-2437175c496a.png)
+
+
+====================
